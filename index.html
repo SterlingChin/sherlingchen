@@ -18,6 +18,19 @@
         </h1>
         <img src="blonde.jpg">
     </header>
+    <div class="page-count">
+        <script type="text/javascript">
+            if (localStorage.pagecount)
+                {
+                localStorage.pagecount=Number(localStorage.pagecount) +1;
+                }
+            else
+            {
+                localStorage.pagecount=1;
+                }
+            document.write("You've been to this page "+ localStorage.pagecount + " time(s).");
+        </script>
+    </div>
     <div class="profile">
         <img src="sherling-chen.jpg">
         <div class="bio">

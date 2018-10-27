@@ -17,6 +17,15 @@ header>img{
     height: 75px;
 }
 
+.page-count {
+    font-family: Monospace;
+    border: 15px dotted;
+    color: white;
+    font-size: 24px;
+    padding: 15px;
+    margin: 15px 0px;
+}
+
 h1 {
     font-family: Monospace;
     color: gray;
