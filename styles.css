@@ -71,6 +71,11 @@ h1 {
     visibility: visible;
 }
 
+.dancingbaby {
+    display: flex;
+    justify-content: center;
+}
+
 .bio {
     border: 15px ridge;
     margin: 0px 0px 0px 5px;
