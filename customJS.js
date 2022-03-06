@@ -6,9 +6,6 @@ function vscode() {
     return alert('Not really, it was built in Visual Studio Code');
 }
 
-
-
-
 var colour = "#00baff";
 var sparkles = 120;
 

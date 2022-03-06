@@ -47,6 +47,20 @@ h1 {
     padding: 20px;
 }
 
+.bio>h2 {
+    display: block;
+    margin: auto;
+}
+
+audio {
+    margin: auto;
+    display: block;
+}
+
+.audio-list {
+    padding: 5px;
+}
+
 .birthday {
     position: relative;
 }
